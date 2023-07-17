@@ -4234,7 +4234,8 @@
             "MMAWorkspaceMachine",
             "MMAWorkspaceNetwork",
             "AzureArcVM",
-            "AzureVMSS"
+            "AzureVMSS",
+            "AzureArcNetwork"
           ],
           "x-ms-enum": {
             "name": "EndpointType",
